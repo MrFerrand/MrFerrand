@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrFerrand
 - 👀 I’m interested in apple pie.
-- 🌱 I’m currently learning how to cook apple pie (and c#, html, css, js).
+- 🌱 I’m currently learning how to cook apple pie.
 - 💞️ I’m looking to collaborate with someone who knows how to cook apple pie.
 - 📫 How to reach me: anytime after my apple pie lunch.
 
